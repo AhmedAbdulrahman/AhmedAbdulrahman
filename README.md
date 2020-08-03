@@ -14,9 +14,10 @@
 [<img align="left" alt="Ahmed Abdulrahman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ahmed Abdulrahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-# Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG:START -->
+
 - [Clone any Private or Public repo from Organization](https://aadev.me/writing/clone-any-private-or-public-repo-from-organization)
 - [Git Tips & Tricks 🔥](https://aadev.me/writing/git-tips-tricks)
 - [How to Automatically Sort Import Modules with ESLint](https://aadev.me/writing/how-to-automatically-sort-import-modules-with-eslint)
