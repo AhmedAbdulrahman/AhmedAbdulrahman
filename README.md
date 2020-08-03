@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedAbdulrahman&show_icons=true&hide_border=true" />
+<img align="left" alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedAbdulrahman&show_icons=true&hide_border=true&theme=tokyonight" />
 
 [work-website]: https://oakwood.se
 [website]: https://aadev.me
