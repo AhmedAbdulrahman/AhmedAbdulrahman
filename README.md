@@ -23,7 +23,6 @@
 ### Latest Blog Posts
 
 <!-- BLOG:START -->
-
 - [Clone any Private or Public repo from Organization](https://aadev.me/writing/clone-any-private-or-public-repo-from-organization)
 - [Git Tips & Tricks 🔥](https://aadev.me/writing/git-tips-tricks)
 - [How to Automatically Sort Import Modules with ESLint](https://aadev.me/writing/how-to-automatically-sort-import-modules-with-eslint)
