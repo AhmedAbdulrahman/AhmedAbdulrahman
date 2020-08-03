@@ -3,22 +3,22 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_ahmed_ab?label=Follow)](https://twitter.com/_ahmed_ab)
 [![Linkedin: ahmed-abd](https://img.shields.io/badge/-Ahmed%20Abdulrahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-abd/)](https://www.linkedin.com/in/ahmed-abd/)
 
-### 🤵🏻 Husband, Father of 👧🏻 👶🏻 👶🏻. Developer. Writer. Teacher. Bridging the gap between human & machine 🤖
+###  🤵🏻 Husband, Father of 👧🏻 👶🏻 👶🏻. Developer. Writer. Teacher.
+> Bridging the gap between human & machine 🤖
 
 - 🔭  I’m currently working on a [Oakwood][work-website]!
 - 💬  Ask me about anything related to Javascript/Typescript/Python/Docker/Wordpress/Graphql
 - 📫  How to reach me: @_ahmed_ab
 
-### 📫 How to reach me
+###  📫 How to reach me
 
-- 🔗 I have a personal website at [https://aadev.me](https://aadev.me?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where my blog and all my social networks are located!
+- 🔗  I have a personal website at [https://aadev.me](https://aadev.me?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where my blog and all my social networks are located!
   - You can see my latest posts [down below](#latest-blog-posts)!
-- 🐦 [@_ahmed_ab](https://twitter.com/_ahmed_ab)
-- 💬 [Discord](https://discord.gg/kaZktBY)
-- 🤳 [Instagram](https://www.instagram.com/a.abdulrahman16/)
-- 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UC0XFMVNa98wxAAZsvoL_XOg?sub_confirmation=1)
-- 📧 You can also send me an [email](mailto:hello@aadev.me)
-<br />
+- 🐦  [@_ahmed_ab](https://twitter.com/_ahmed_ab)
+- 💬  [Discord](https://discord.gg/kaZktBY)
+- 🤳  [Instagram](https://www.instagram.com/a.abdulrahman16/)
+- 📹  [Subscribe on YouTube](https://www.youtube.com/channel/UC0XFMVNa98wxAAZsvoL_XOg?sub_confirmation=1)
+- 📧  You can also send me an [email](mailto:hello@aadev.me)
 
 ### Latest Blog Posts
 
