@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi y'all 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_ahmed_ab?label=Follow)](https://twitter.com/_ahmed_ab)
 [![Linkedin: ahmed-abd](https://img.shields.io/badge/-Ahmed%20Abdulrahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-abd/)](https://www.linkedin.com/in/ahmed-abd/)
@@ -6,9 +6,17 @@
 ###  🤵🏻 Husband, Father of 👧🏻 👶🏻 👶🏻. Developer. Writer. Teacher.
 > Bridging the gap between human & machine 🤖
 
-- 🔭  I’m currently working on a [Oakwood][work-website]!
-- 💬  Ask me about anything related to Javascript/Typescript/Python/Docker/Wordpress/Graphql
-- 📫  How to reach me: @_ahmed_ab
+- 🔭  I’m currently working at [Oakwood][work-website]!
+- 🌱  I’m currently learning SwiftUI
+- 💬  Ask me about anything related to:
+  - Javascript
+  - NodeJS
+  - Typescript
+  - Python
+  - Docker
+  - SwiftUI
+  - Wordpress
+  - Graphql
 
 ###  📫 How to reach me
 
