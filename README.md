@@ -8,15 +8,7 @@
 
 - 🔭  I’m currently working at [Oakwood][work-website]!
 - 🌱  I’m currently learning SwiftUI
-- 💬  Ask me about anything related to:
-  - Javascript
-  - NodeJS
-  - Typescript
-  - Python
-  - Docker
-  - SwiftUI
-  - Wordpress
-  - Graphql
+- 💬  Ask me about anything related to Web Stuff including: Javascript/Typescript/React/Python/Graphql/Wordpress
 
 ###  📫 How to reach me
 
