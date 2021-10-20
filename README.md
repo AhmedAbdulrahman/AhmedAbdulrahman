@@ -6,18 +6,18 @@
 ###  🤵🏻 Husband, Father of 👧🏻 👶🏻 👶🏻. Developer. Writer. Teacher.
 > Bridging the gap between human & machine 🤖
 
-- 🔭  I’m currently working at [Oakwood][work-website]!
-- 🌱  I’m currently learning SwiftUI
-- 💬  Ask me about anything related to Web Stuff including: Javascript/Typescript/React/Python/Graphql/Wordpress
+<!-- - 🔭  I’m currently working at [Oakwood][work-website]! -->
+<!-- - 🌱  I’m currently learning SwiftUI -->
+<!-- - 💬  Ask me about anything related to Web Stuff including: Javascript/Typescript/React/Python/Graphql/Wordpress -->
 
 ###  📫 How to reach me
 
 - 🔗  I have a personal website at [https://aadev.me](https://aadev.me?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where my blog and all my social networks are located!
   - You can see my latest posts [down below](#latest-blog-posts)!
 - 🐦  [@_ahmed_ab](https://twitter.com/_ahmed_ab)
-- 💬  [Discord](https://discord.gg/kaZktBY)
-- 🤳  [Instagram](https://www.instagram.com/a.abdulrahman16/)
-- 📹  [Subscribe on YouTube](https://www.youtube.com/channel/UC0XFMVNa98wxAAZsvoL_XOg?sub_confirmation=1)
+<!-- - 💬  [Discord](https://discord.gg/kaZktBY) -->
+<!-- - 🤳  [Instagram](https://www.instagram.com/a.abdulrahman16/) -->
+<!-- - 📹  [Subscribe on YouTube](https://www.youtube.com/channel/UC0XFMVNa98wxAAZsvoL_XOg?sub_confirmation=1) -->
 - 📧  You can also send me an [email](mailto:hello@aadev.me)
 
 ### Latest Blog Posts
