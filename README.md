@@ -32,6 +32,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedAbdulrahman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 <img align="left" alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedAbdulrahman&show_icons=true&hide_border=true&theme=tokyonight" />
 
 [work-website]: https://oakwood.se
